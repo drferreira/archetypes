@@ -1,0 +1,7 @@
+.project
+.settings/
+target/
+
+src/man/resources/archetype-resources/.classpath
+src/man/resources/archetype-resources/.project
+src/man/resources/archetype-resources/.settings

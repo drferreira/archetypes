@@ -1,0 +1,4 @@
+archetypes
+==========
+
+Maven Archetypes
